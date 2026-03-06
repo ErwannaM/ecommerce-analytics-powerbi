@@ -1,12 +1,12 @@
 # 📊 ANALYSE E-COMMERCE : MON PREMIER PROJET DATA (SQL/POWER BI)
 
-## 🎯 À PROPOS DE CE PROJET ###
+## À PROPOS DE CE PROJET ###
 
 Ceci est mon premier projet complet de Data Analytics, réalisé dans le cadre de ma reconversion vers la formation M1/M2 Data Analytics.
 
 J'ai analysé 9,801 transactions e-commerce (2015-2018) en utilisant SQL Server pour l'analyse de données et Power BI pour créer un dashboard interactif.
 
-## 📊 LES DONNEES ###
+## LES DONNEES ###
 
 - **9,801** transactions analysées
 - **793** clients
@@ -14,7 +14,7 @@ J'ai analysé 9,801 transactions e-commerce (2015-2018) en utilisant SQL Server 
 - **2,25M$** de chiffre d'affaires total
 - Période : 2015 à 2018
 
-### 🔍 CE QUE J'AI DECOUVERT ###
+### CE QUE J'AI DECOUVERT ###
 **26% DE TAUX DE CHRUN CLIENT**
 J'ai identifié que 203 clients (26%) sont devenus inactifs, représentant 457k$ de CA à risque.
 
@@ -29,7 +29,7 @@ Le business a pratiquement doublé sur la période.
 
 ---
 
-### 🛠️ OUTILS UTILISES ###
+### OUTILS UTILISES ###
 
 **SQL Server**
 - Création de 8 analyses différentes
@@ -44,7 +44,7 @@ Le business a pratiquement doublé sur la période.
 
 ---
 
-**📁 CONTENU DU PROJET**
+**CONTENU DU PROJET**
 
 **Dashboard Power BI**
 
@@ -63,7 +63,7 @@ Aperçu de chaque page du dashboard dans `/screenshots`
 
 ---
 
-## 💭 CE QUE J'AI APPRIS
+## CE QUE J'AI APPRIS
 
 - Comment structurer une base de données en schéma étoile
 - Écrire des requêtes SQL de bases *(et complexes (CTEs, Window Functions))*
